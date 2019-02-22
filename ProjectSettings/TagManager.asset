@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AI Sound Emitter
+  - AI Visual
+  - AI Food
+  - Flash Light
+  - Melee Zone
+  - Upper Body
+  - Lower Body
+  - Head
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - AI Entity
+  - AI Entity Trigger
+  - AI Trigger
+  - Player
+  - Visual Aggravator
+  - Audio Aggravator
+  - AI Body Part
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
